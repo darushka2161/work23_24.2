@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prak_23_24:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prak_23_24_jar</output-path>
+    <root id="archive" name="Prak_23_24.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Prak_23_24" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/target/classes/opencsv-5.5.2.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/opencsv-5.5.2.jar" />
+    </root>
+  </artifact>
+</component>
